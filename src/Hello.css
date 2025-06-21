@@ -1,0 +1,17 @@
+h1{
+    color: rgb(153, 4, 4);
+    font-size: 20px;
+}
+h1:hover{
+    font-size: 23px;
+    background-color:black;
+    color: rgb(255, 255, 255);
+}
+img{
+    cursor: grab;
+    border: solid black 4.5px;
+    border-radius: 1%
+    -webkit-box-shadow: 3px 4px 1px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 4px 1px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 4px 1px 0px rgba(0,0,0,0.75);
+}
